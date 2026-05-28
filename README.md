@@ -6,3 +6,9 @@ I am transitioning into tech after working as a university academic counselor. I
 Beyond tracking the day-to-day data, I analyze large datasets to flag at-risk students, collaborate with faculty on retention, and ensure strict academic policy compliance.
 
 Now, I’m translating that exact experience with data tracking, system constraints, and workflow integrity over to the software world. I genuinely love breaking things just to figure out *why* they broke, and then keeping them running smoothly. Right now, I'm channeling that energy into building Python test automation frameworks.
+
+## 🛠️ Technical Toolkit
+
+*   **Testing Methodologies:** Manual Testing, Functional & Regression Testing, Mobile Testing (iOS), Bug Life Cycle, Test Case Execution, Boundary Value Analysis, Agile/Scrum Frameworks
+*   **Tools & Platforms:** Jira, Postman, Testlio, uTest, GitHub, Test Case Management, Chrome DevTools
+*   **Languages & Databases:** SQL (Queries, Joins), Python (Foundational / In Progress), HTML, CSS
