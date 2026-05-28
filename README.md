@@ -12,7 +12,7 @@ Now, I’m translating that exact experience with data tracking, system constrai
 
 ## 🛠️ Technical Toolkit
 
-*   **Testing Methodologies:** Manual Testing, Functional & Regression Testing, Mobile Testing (iOS), Bug Life Cycle, Test Case Execution, Boundary Value Analysis, Agile/Scrum Frameworks
+*   **Testing Methodologies:** Manual Testing, Functional & Regression Testing, Cross-Platform Testing(iOS/Web), Bug Life Cycle, Test Case Execution, Boundary Value Analysis, Agile/Scrum Frameworks
 *   **Tools & Testing Platforms:** Jira, Postman, Testlio, uTest, GitHub, Test Case Management, Chrome DevTools
 *   **Enterprise Systems & Workflows:** Anthology Student/CRM, CampusVue, CORE ELMS, Brightspace LMS, Complio, DocuWare, AdobeSign, MS Excel (Data Auditing)
 *   **Languages & Databases:** SQL (Queries, Joins), Python (Foundational / In Progress), HTML, CSS
