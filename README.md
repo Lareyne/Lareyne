@@ -21,7 +21,7 @@ Now, I’m translating that exact experience with data tracking, system constrai
 
 ## 📂 Featured QA Projects
 
-### [Pokémon API Testing Suite](https://github.com)
+### [Pokémon API Testing Suite](https://github.com/Lareyne/pokemon-api-testing-suite)
 
 A foundational Postman project demonstrating data verification, pagination filtering, response speed metrics, and error-handling validation.
 
