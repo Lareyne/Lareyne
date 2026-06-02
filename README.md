@@ -25,3 +25,5 @@ Now, I’m translating that exact experience with data tracking, system constrai
 
 A foundational Postman project demonstrating data verification, pagination filtering, response speed metrics, and error-handling validation.
 
+### [E-Commerce Exploratory Testing & Bug Logging](https://github.com/Lareyne/ecommerce-exploratory-test-suite)
+Performed end-to-end exploratory and functional testing on a live web application.
