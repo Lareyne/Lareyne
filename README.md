@@ -16,6 +16,8 @@ Now, I’m translating that exact experience with data tracking, system constrai
 *   **Tools & Testing Platforms:** Jira, Postman, uTest, GitHub, Test Case Management, Chrome DevTools
 *   **Enterprise Systems & Workflows:** Anthology Student/CRM, CampusVue, CORE ELMS, Brightspace LMS, Complio, DocuWare, AdobeSign, MS Excel (Data Auditing)
 *   **Languages & Databases:** SQL (Queries, Joins), Python (Foundational / In Progress), HTML, CSS
+    **Data & Document Tools:** DocuWare, Adobe Sign, Adobe Acrobat (Document Editing), Microsoft Office (Word, Excel), Apple Work Apps (Pages, Numbers, Keynote)
+*   **Enterprise Higher Education Platforms:** SEVIS, CORE Elms, Complio, SIS: Ellucian Banner, CampusNexus, and Anthology, LMS: Canvas and Brightspace
 
 ---
 
