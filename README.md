@@ -6,16 +6,16 @@ I am transitioning into software QA from a background in higher education. If yo
 
 Beyond tracking the day-to-day data, I analyze large datasets to flag at-risk students, collaborate with faculty on retention, and ensure strict academic policy compliance.
 
-Now, I’m translating that exact experience with data tracking, system constraints, and workflow integrity over to the software world. I genuinely love breaking things just to figure out *why* they broke, and then keeping them running smoothly. Right now, I'm channeling that energy into building Python test automation frameworks.
+Now, I’m translating that exact experience with data tracking, system constraints, and workflow integrity over to the software world. I genuinely love breaking things just to figure out *why* they broke, and then keeping them running smoothly. Right now, I'm channeling that energy into building Python test automation frameworks utilizing Playwright.
 
 ---
 
 ## 🛠️ Technical Toolkit
 
 *   **Testing Methodologies:** Manual Testing, Functional & Regression Testing, Cross-Platform Testing(iOS/Web), Bug Life Cycle, Test Case Execution, Boundary Value Analysis, Agile/Scrum Frameworks
-*   **Tools & Testing Platforms:** Jira, Postman, uTest, GitHub, Test Case Management, Chrome DevTools
+*   **Tools & Testing Platforms:** Jira, Postman, uTest, GitHub, Test Case Management, Chrome DevTools, Playwright (In Progress/Learnin)
 *   **Enterprise Systems & Workflows:** Anthology Student/CRM, CampusVue, CORE ELMS, Brightspace LMS, Complio, DocuWare, AdobeSign, MS Excel (Data Auditing)
-*   **Languages & Databases:** SQL (Queries, Joins), Python (Foundational / In Progress), HTML, CSS
+*   **Languages & Databases:** SQL (Queries, Joins), Python (In Progress/Learning), HTML, CSS
     **Data & Document Tools:** DocuWare, Adobe Sign, Adobe Acrobat (Document Editing), Microsoft Office (Word, Excel), Apple Work Apps (Pages, Numbers, Keynote)
 *   **Enterprise Higher Education Platforms:** SEVIS, CORE Elms, Complio, SIS: Ellucian Banner, CampusNexus, and Anthology, LMS: Canvas and Brightspace
 
