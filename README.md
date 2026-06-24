@@ -27,7 +27,7 @@ Now, I’m translating that exact experience with data tracking, system constrai
 A foundational Postman project demonstrating data verification, pagination filtering, response speed metrics, and error-handling validation.
 
 ### [E-Commerce Exploratory Testing & Bug Logging](https://github.com/Lareyne/ecommerce-exploratory-test-suite)
-A comprehensive manual testing project evaluating an e-commerce platform for functional defects, featuring technical bug logs complete with console error captures and precise replication steps.
+A comprehensive manual testing project evaluating an e-commerce platform for functional defects. Features requirement-based functional test cases, technical bug logs complete with console error captures, and precise replication steps.
 
 ### [Azeroth SQL Validation Suite](https://github.com/Lareyne/azeroth-sql-validation-suite) 
 A targeted backend testing project utilizing a database environment to isolate hidden data anomalies, validate cross-table business logic rules, and ensure database integrity through custom SQL queries.
