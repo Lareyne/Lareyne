@@ -2,22 +2,19 @@
 
 ### QA Tester | Software Quality Assurance
 
-I am transitioning into software QA from a background in higher education. If you want to know what that actually means, I spend my days wrangling chaotic datasets, delivering personalized advising to help students navigate complex degree paths, while simultaneously managing our Student Information System (SIS) to track grades, enrollment, and progress. 
+I’m transitioning into software QA from a background in higher education, where I’ve worked extensively with data, complex systems, and process-driven workflows. I currently work as a freelance QA Tester for uTest, and I’ve thoroughly enjoyed the experience. It’s made me realize that this is something I genuinely want to pursue as a career.
 
-Beyond tracking the day-to-day data, I analyze large datasets to flag at-risk students, collaborate with faculty on retention, and ensure strict academic policy compliance.
-
-Now, I’m translating that exact experience with data tracking, system constraints, and workflow integrity over to the software world. For me, the best part of testing is digging into how a system works, understanding the root cause of issues, and making sure the final product is solid and reliable. Right now, I'm channeling that energy toward my next milestone: developing automated testing frameworks using Python and Playwright.
+Like most people, technology is a big part of my everyday life. A broken feature, confusing workflow, or small bug can quickly turn a good experience into a frustrating one. That’s a big part of what drew me to software testing. I want to help catch those issues before they reach users. I enjoy digging into how systems work, finding where things break, understanding root causes, and making sure the end product is reliable. I see testing as more than finding bugs. It’s about asking the right questions, thinking critically about how users interact with a system, and helping build software people can trust.
 
 ---
 
 ## 🛠️ Technical Toolkit
 
-*   **Testing Methodologies:** Manual Testing, Functional & Regression Testing, Cross-Platform Testing(iOS/Web), Bug Life Cycle, Test Case Execution, Boundary Value Analysis, Agile/Scrum Frameworks
-*   **Tools & Testing Platforms:** Jira, Postman, uTest, GitHub, Test Case Management, Chrome DevTools, Playwright (In Progress/Learnin)
-*   **Enterprise Systems & Workflows:** Anthology Student/CRM, CampusVue, CORE ELMS, Brightspace LMS, Complio, DocuWare, AdobeSign, MS Excel (Data Auditing)
-*   **Languages & Databases:** SQL (Queries, Joins), Python (In Progress/Learning), HTML, CSS
-    **Data & Document Tools:** DocuWare, Adobe Sign, Adobe Acrobat (Document Editing), Microsoft Office (Word, Excel), Apple Work Apps (Pages, Numbers, Keynote)
-*   **Enterprise Higher Education Platforms:** SEVIS, CORE Elms, Complio, SIS: Ellucian Banner, CampusNexus, and Anthology, LMS: Canvas and Brightspace
+*   **Testing & QA:** Manual Testing, Functional Testing, Regression Testing, Cross-Platform Testing (iOS/Web), Test Case Execution, Bug Life Cycle, Boundary Value Analysis, Agile/Scrum
+*   **Testing Tools & Platforms:** Jira, Postman, uTest, GitHub, Chrome DevTools, Test Case Management, Playwright (currently learning)
+*   **Programming & Databases:** SQL (Queries, Joins), HTML, CSS, Python (currently learning)
+*   **Higher Education Systems & Platforms:** Anthology CRM, Ellucian Banner, CampusNexus, SEVIS, CORE ELMS, Complio, Canvas LMS, Brightspace LMS
+*   **Data & Productivity:** Microsoft Office (including Excel for data auditing), Apple iWork, Adobe Acrobat, Adobe Sign, DocuWare
 
 ---
 
