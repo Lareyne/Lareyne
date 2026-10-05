@@ -10,8 +10,8 @@ Like most people, technology is a big part of my everyday life. A broken feature
 
 ## 🛠️ Technical Toolkit
 
-*   **Testing & QA:** Manual Testing, Functional Testing, Regression Testing, Cross-Platform Testing (iOS/Web), Test Case Execution, Bug Life Cycle, Boundary Value Analysis, Agile/Scrum
-*   **Testing Tools & Platforms:** Jira, Postman, uTest, GitHub, Chrome DevTools, Test Case Management, Playwright (currently learning)
+*   **Testing & QA:** Manual Testing, Functional Testing, Exploratory Testing, Edge Case Testing, Cross-Browser Testing, Cross-Platform Testing (Windows/macOS), Mobile Testing, Web Testing, Test Case Execution, Bug Reporting
+*   **Testing Tools & Platforms:** Jira, Postman, uTest, GitHub, Chrome DevTools, Playwright (currently learning)
 *   **Programming & Databases:** SQL (Queries, Joins), HTML, CSS, Python (currently learning)
 *   **Higher Education Systems & Platforms:** Anthology CRM, Ellucian Banner, CampusNexus, SEVIS, CORE ELMS, Complio, Canvas LMS, Brightspace LMS
 *   **Data & Productivity:** Microsoft Office (including Excel for data auditing), Apple iWork, Adobe Acrobat, Adobe Sign, DocuWare
