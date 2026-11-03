@@ -19,7 +19,7 @@ My day-to-day work in higher education has deeply shaped how I approach technolo
 
 ## 📂 Featured Projects
 
-###LMS Administration & Governance Log
+###[LMS Administration & Governance Log](https://github.com/Lareyne/Lareyne/blob/main/System%20Setup%20and%20Governance%20Log.pdf)
 A simulated learning management system setup in TalentLMS demonstrating platform configuration, role-based user management, automated group enrollment rules, and batch data imports to establish structured administrative workflows.
 
 ### [PokeAPI Testing Suite](https://github.com/Lareyne/pokemon-api-testing-suite)
