@@ -1,24 +1,26 @@
 # Hi, I'm Lareyne Alvarez 👋 
 
-### QA Tester | Software Quality Assurance
+### Systems & QA Specialist
 
-I’m transitioning into software QA from a background in higher education, where I’ve worked extensively with data, complex systems, and process-driven workflows. I currently work as a freelance QA Tester for uTest, and I’ve thoroughly enjoyed the experience. It’s made me realize that this is something I genuinely want to pursue as a career.
+Higher education professional with 13+ years of experience—including extensive work as an Academic Counselor supporting learning management systems, auditing student databases, and maintaining strict compliance—paired with hands-on software testing.
 
-Like most people, technology is a big part of my everyday life. A broken feature, confusing workflow, or small bug can quickly turn a good experience into a frustrating one. That’s a big part of what drew me to software testing. I want to help catch those issues before they reach users. I enjoy digging into how systems work, finding where things break, understanding root causes, and making sure the end product is reliable. I see testing as more than finding bugs. It’s about asking the right questions, thinking critically about how users interact with a system, and helping build software people can trust.
+My day-to-day work in higher education has deeply shaped how I approach technology. Managing complex student records, verifying workflows, and troubleshooting platform issues require the exact same mindset as software testing: attention to detail, a knack for spotting anomalies, and a drive to find root causes. Whether I'm analyzing data discrepancies, investigating application behavior, or exploring web and mobile apps, I love digging into how systems work, figuring out where things break, and documenting issues clearly.
 
 ---
 
 ## 🛠️ Technical Toolkit
 
-*   **Testing & QA:** Manual Testing, Functional Testing, Exploratory Testing, Edge Case Testing, Cross-Browser Testing, Cross-Platform Testing (Windows/macOS), Mobile Testing, Web Testing, Test Case Execution, Bug Reporting
-*   **Testing Tools & Platforms:** Jira, Postman, uTest, GitHub, Chrome DevTools, Playwright (currently learning)
-*   **Programming & Databases:** SQL (Queries, Joins), HTML, CSS, Python (currently learning)
-*   **Higher Education Systems & Platforms:** Anthology CRM, Ellucian Banner, CampusNexus, SEVIS, CORE ELMS, Complio, Canvas LMS, Brightspace LMS
-*   **Data & Productivity:** Microsoft Office (including Excel for data auditing), Apple iWork, Adobe Acrobat, Adobe Sign, DocuWare
+*   **QA & Testing:** Manual, Functional, & Exploratory Testing, Edge Case Identification, Bug Reporting & Documentation, Cross-Browser Testing
+*   **Tools & Platforms:** Jira, Postman, uTest, GitHub, Chrome DevTools, Microsoft Excel (data auditing & reporting)
+*   **LMS & Academic Systems:** Canvas LMS, Brightspace LMS, TalentLMS, Anthology SIS, Ellucian Banner SIS, SEVIS, CORE Elms
+*   **Programming & Databases:** HTML/CSS, SQL, and currently expanding programming skills in Python and Playwright
 
 ---
 
-## 📂 Featured QA Projects
+## 📂 Featured Projects
+
+###LMS Administration & Governance Log
+A simulated learning management system setup in TalentLMS demonstrating platform configuration, role-based user management, automated group enrollment rules, and batch data imports to establish structured administrative workflows.
 
 ### [PokeAPI Testing Suite](https://github.com/Lareyne/pokemon-api-testing-suite)
 A foundational Postman project demonstrating data verification, pagination filtering, response speed metrics, and error-handling validation.
